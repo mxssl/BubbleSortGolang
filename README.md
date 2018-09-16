@@ -1,6 +1,6 @@
 # Bubble Sort
 
-Bubble Sort implementation in Go (Golang).
+[Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort) implementation in Go (Golang).
 
 `Time Complexity: O(n^2)`
 
